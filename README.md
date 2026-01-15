@@ -5,3 +5,4 @@ Will also create a frontend platform for making the dashboard
 Working but will need to connect the backend with frontend
 Also need to connect it with MongoDB
 Completed the frontend base
+Need to add white and dark mode
