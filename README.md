@@ -12,3 +12,4 @@ SQL/MongoDB - To be used in hosting the data
 To create responsiveness in it for different devices
 To host it over to vercel
 To add validation authentication using bcrypt and jwt
+To host it on a server express and use routing
