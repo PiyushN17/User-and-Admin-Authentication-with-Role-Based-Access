@@ -17,3 +17,4 @@ To create the fully functional base for different level of users
 to create a login ui
 can design the UI design using figma
 to add error handling logic
+to add random password generation
