@@ -18,3 +18,4 @@ to create a login ui
 can design the UI design using figma
 to add error handling logic
 to add random password generation
+Need to learn a bit more about express js
