@@ -25,3 +25,4 @@ To keep the same api layout
 To add scrollbar functionality
 to add box layout
 to create a miro mind map as well
+to add nav bar - hamburger
