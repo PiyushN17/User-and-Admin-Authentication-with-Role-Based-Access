@@ -30,3 +30,4 @@ hi
 to add it to the codepen website
 to add server file - node js
 To push all the files
+To delete duplicate files
