@@ -29,3 +29,4 @@ to add nav bar - hamburger
 hi
 to add it to the codepen website
 to add server file - node js
+To push all the files
